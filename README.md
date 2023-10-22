@@ -30,8 +30,8 @@ Users will be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/12Ricky0/devjob-app.git](https://github.com/12Ricky0/devjob-app.git)
+- Live Site URL: [https://devjob-git-main-12ricky0.vercel.app/](https://devjob-git-main-12ricky0.vercel.app/)
 
 ## My process
 
